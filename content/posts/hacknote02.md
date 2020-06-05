@@ -1,5 +1,5 @@
 ---
-title: "Blog02"
+title: "ブログ02"
 date: 2019-11-14T15:28:52+09:00
 draft: false
 ---

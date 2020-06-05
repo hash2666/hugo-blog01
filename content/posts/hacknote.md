@@ -1,10 +1,10 @@
 ---
-title: "Blog01"
+title: "ブログ01"
 date: 2019-11-14T15:28:52+09:00
 draft: false
 ---
 
-# Blog01
+# ブログ01
 
 ## h2
 
