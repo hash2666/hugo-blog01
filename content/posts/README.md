@@ -4,7 +4,7 @@ The intent of this theme is to provide a solid starting place for Hugo sites wit
 
 ![screenshot](https://raw.githubusercontent.com/budparr/gohugo-theme-ananke/master/images/screenshot.png)
 
-![screenshot](posts/img02.jpg)
+![screenshot](https://github.com/hash2666/hugo-blog01/blob/master/content/img02.jpg)
 
 [DEMO](https://gohugo-ananke-theme-demo.netlify.com/)
 
